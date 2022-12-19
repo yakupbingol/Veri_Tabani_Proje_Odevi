@@ -1,0 +1,2 @@
+Premier Lig'in 10 yıllık maç istatistikleri ve sonuçlarından oluşan veri setinden verilerimizi veri tabanımıza aktarıp maç sonucunun kimin kazanacağını tahmin eden 
+form uygulaması yaptım. Bu uygulamayı C# yazılım dili ile yaptım.
